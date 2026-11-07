@@ -2,9 +2,9 @@
 
 ## About this account ｜ 关于本账号
 
-> **English** — Everything in this account was built **before** it was uploaded to GitHub. I wasn't in the habit of using GitHub until I realized how convenient it is for version control and showcasing — so I consolidated my existing projects into one place. Repo creation dates and commit counts do **not** reflect the actual development timeline. The history lives elsewhere; the work lives here.
+> **English** — Some of the repositories in this account were built **before** they were uploaded to GitHub. I wasn't in the habit of using GitHub until I realized how convenient it is for version control and showcasing — so I consolidated my existing projects into one place. Repo creation dates and commit counts do **not fully** reflect the actual development timeline. The history lives elsewhere; the work lives here.
 
-> **中文** — 本账号下所有仓库在上传至 GitHub 之前均已完成开发。此前我并不习惯使用 GitHub（或者说，还没体会到它的好），后来发现它在版本管理与展示上的便利，才决定把各个项目集中迁移至此。因此，仓库的创建时间与提交记录**不代表**项目的实际开发周期——历史在别处，作品在这里。
+> **中文** — 本账号下的**部分**仓库在上传至 GitHub 之前已完成开发。此前我并不习惯使用 GitHub（或者说，还没体会到它的好），后来发现它在版本管理与展示上的便利，才决定把已有项目集中迁移至此。因此，仓库的创建时间与提交记录**不完全代表**项目的实际开发周期——历史在别处，作品在这里。
 
 ---
 
